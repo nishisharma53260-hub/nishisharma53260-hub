@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/L8svDXqri5QAAAAC/anime-girl.gif" width="320">
+  <img src="https://media.tenor.com/Ut6x5v4vK6AAAAAC/anime-girl-working.gif" width="340">
 </p>
 
 ---
