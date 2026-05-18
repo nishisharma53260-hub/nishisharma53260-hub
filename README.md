@@ -44,7 +44,41 @@
 </p>
 
 ---
+---
 
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nishisharma53260-hub&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FFB6C1" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishisharma53260-hub&layout=compact&theme=radical&title_color=FF69B4" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nishisharma53260-hub&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 🌸 Cute Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nishisharma53260-hub&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+</p>
+
+---
+
+## 💗 Daily Vibe
+
+<p align="center">
+  <i>“Dream big, code cute, and keep learning every day.”</i> 🌷✨
+</p>
 ## 💕 Connect With Me
 
 <p align="center">
