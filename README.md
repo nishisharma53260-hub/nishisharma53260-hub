@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" width="350">
+  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/master/assets/github-user-contribution.svg" width="400">
 </p>
 
 ---
