@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAC/coding-girl.gif" width="340">
+  <img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/anime-computer.gif" width="320">
 </p>
 
 ---
