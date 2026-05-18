@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="120">
+  <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="300">
 </p>
 
 ---
