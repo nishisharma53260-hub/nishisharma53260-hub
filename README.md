@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/master/assets/github-user-contribution.svg" width="400">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="340">
 </p>
 
 ---
