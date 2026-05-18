@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/74GOlTc57vM9q5fOf0/giphy.gif" width="320">
+  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAC/coding-girl.gif" width="340">
 </p>
 
 ---
