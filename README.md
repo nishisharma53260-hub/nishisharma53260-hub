@@ -1,18 +1,54 @@
-# 💫 About Me:
-Motivated B.Sc. Data Science with AI  student.<br>Passionate about Python, SQL, Machine Learning, and real-world tech projects.<br> Built an Arduino-based Smart Safety Monitoring System for hazard detection and elderly care.<br> Exploring AI, data analytics, and innovative software solutions.
+<h1 align="center">💗 Hi, I'm Nishi Sharma 💗</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=28&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile+💖;B.Sc+DataScience+with+AI+Student+🌸;Aspiring+Data+Scientist+💻;Python+%7C+SQL+%7C+Machine+Learning+✨;Building+Cool+Projects+Every+Day+💗" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nishi-sharma-885b1b386) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nishisharma53260-hub&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=nishisharma53260-hub&theme=date_night&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nishisharma53260-hub&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="120">
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=nishisharma53260-hub&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌸 About Me
+
+💗 B.Sc Data Science with AI student at **Galgotias University**  
+💗 Passionate about **Data Science, AI & Machine Learning**  
+💗 Currently learning **Python, SQL, Tableau, Flutter**  
+💗 Built **Smart Home Safety Monitoring System**  
+💗 Love coding, problem-solving & creating projects ✨  
+💗 Always learning and growing 🌷  
+
+---
+
+## 🎀 Tech Stack
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine Learning-FFC0CB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tableau-FFB6C1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flutter-FF69B4?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-FFC0CB?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-FFB6C1?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+## 💕 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/nishi-sharma-885b1b386">
+<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:nishisharma53260@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+💖 Thanks for visiting my profile 💖
+</p>
