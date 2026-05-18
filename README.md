@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="300">
+  <img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" width="350">
 </p>
 
 ---
